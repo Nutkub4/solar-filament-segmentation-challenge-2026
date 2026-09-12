@@ -1,0 +1,13 @@
+{
+    "random_seed": 42,
+    "image_size": 512,
+    "batch_size": 8,
+    "epochs": 15,
+    "learning_rate": 0.0001,
+    "loss": "BCEWithLogitsLoss + Dice Loss",
+    "pos_weight": 10.0,
+    "threshold": 0.8,
+    "minimum_area": 50,
+    "instance_method": "Connected Components",
+    "pq_iou_threshold": 0.5
+}
