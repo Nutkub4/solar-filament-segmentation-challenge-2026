@@ -201,7 +201,7 @@ The final configuration records the random seed, image size, batch size, number 
 ## Repository Structure
 
 ```text
-solar-filament-segmentation/
+solar-filament-segmentation-challenge-2026/
 │
 ├── notebook/
 │   └── solar-filament-segmentation-challenge-2026-unet.ipynb
